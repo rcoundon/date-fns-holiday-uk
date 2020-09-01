@@ -1,7 +1,7 @@
 
-# date-fns-holiday-us
+# date-fns-holiday-uk
 
-The purpose of this project is to give an interface to work with holidays using `date-fns`
+The purpose of this project is to give an interface to work with holidays using `date-fns` forked for the UK from https://github.com/jonstuebe/date-fns-holiday-us
 
 ## Install
 
@@ -12,7 +12,7 @@ yarn add date-fns-holiday-us date-fns
 or with npm:
 
 ```
-npm i date-fns-holiday-us date-fns
+npm i date-fns-holiday-uk date-fns
 ```
 
 ## API
